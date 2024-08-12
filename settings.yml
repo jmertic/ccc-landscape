@@ -10,24 +10,24 @@
 
 global:
   # name of the landscape
-  name: LANDSCAPENAME
+  name: Confidential Computing Consortium Landscape
   # shortname
-  short_name: LANDSCAPESHORTNAME
+  short_name: CCC Landscape
   # repo where this landscape is hosted ( minus the https://github.com part )
-  repo: PROJECTGITHUB
+  repo: https://github.com/confidential-computing/landscape
   # URL to the landscape
-  website: https://landscape.DOMAINNAME
+  website: https://landscape.confidentialcomputing.io/
   # Short domain name for the landscape (usually this would change 'l' for 'landscape'
-  short_domain: l.DOMAINNAME
+  short_domain: l.confidentialcomputing.io/
   # Your project's website
-  company_url: https://DOMAINNAME
+  company_url: https://confidentialcomputing.io/
   # General contact email for the landscape
-  email: info@DOMAINNAME
+  email: operations@confidentialcomputing.io
   # Crunchbase entry for your project - fill in 
   self: PROJECTCRUNCHBASE
   meta:
     # Should match name above
-    title: LANDSCAPENAME
+    title: Confidential Computing Consortium Landscape
     # keep this
     fb_admin: alex.contini.94
     # site description
